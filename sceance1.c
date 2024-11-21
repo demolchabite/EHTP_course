@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define t 1000
+#define t 1500
 int main (){
     int p,h;
     float c,cost;
